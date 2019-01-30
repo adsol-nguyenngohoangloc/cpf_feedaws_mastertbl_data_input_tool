@@ -1,0 +1,2 @@
+# cpf_feedaws_mastertbl_data_input_tool
+コンテンツPFのフィードマスタデータ化において、マスタデータテーブルにデータを投入するツール
